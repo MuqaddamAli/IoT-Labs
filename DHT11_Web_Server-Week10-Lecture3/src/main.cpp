@@ -19,7 +19,7 @@ Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, -1);
 DHT dht(DHTPIN, DHTTYPE);
 
 // WiFi credentials
-const char* ssid     = "StormFiber-8670";
+const char* ssid     = "Pixel :3";
 const char* password = "Ub63HEZt";
 
 WebServer server(80);
